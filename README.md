@@ -50,7 +50,7 @@ docker run -p 8000:8000 miapifastapi:latest
 La imagen está disponible en Docker Hub:
 
 ```bash
-docker pull tuusuario/miapifastapi:latest
+docker pull xonbabyx/miapifastapi:latest
 ```
 
 ## Estrategia de Versionamiento Git
